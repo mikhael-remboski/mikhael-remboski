@@ -1,20 +1,22 @@
 ### 👋 Hi there! I'm Mikhael
 
-💻 Backend Engineer
+💻 Backend Engineer 
 
 ---
 
 ### 📊 GitHub Stats
 
+> ⚠️ *Note: Stats and streaks only reflect public contributions. Most of my work is done in private repositories.*
+
 ![Mikhael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikhael-remboski&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhael-remboski&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhael-remboski&layout=compact&theme=github_dark)
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mikhael-remboski&theme=onestar)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mikhael-remboski&theme=onestar)
 
 ---
 
