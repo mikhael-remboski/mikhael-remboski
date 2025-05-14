@@ -20,4 +20,4 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mikhael-remboski&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikhael-remboski&theme=dark)](https://github.com/mikhael-remboski)
